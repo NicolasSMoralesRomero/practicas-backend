@@ -1,0 +1,12 @@
+{
+  "name": "metodos-arrays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array.js",
+  "scripts": {
+    "start": "node --watch array.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
